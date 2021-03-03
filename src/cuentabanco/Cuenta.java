@@ -64,5 +64,9 @@ public class Cuenta {
         return retirar;
     }
     
-
+    public double verSaldoCuenta(){
+        double totalCuenta =0;
+        this.cantidad = totalCuenta;
+        return totalCuenta;
+    }
 }

@@ -8,6 +8,7 @@ package cuentabanco;
 /**
  *
  * @author diego
+ * visto
  */
 public class Cuenta {
     private String titular;
